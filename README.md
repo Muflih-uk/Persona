@@ -53,15 +53,13 @@ All of this is also exposed live over a self-hosted WiFi dashboard, so a caregiv
 ### Images
 
 <p align="center">
-<img src="/docs/image.jpg" width="800"><br/>
-<i>MYOSA sensor boards (OLED, BMP180, APDS9960) wired to the ESP32 main board</i>
+  <img src="/docs/image.jpg" width="800"><br/>
+  <i>MYOSA sensor boards (OLED, BMP180, APDS9960) wired to the ESP32 main board</i>
 </p>
 
 ### Videos
 
-<video controls width="100%">
-<source src="/docs/video.mp4" type="video/mp4">
-</video>
+<a href="./docs/video.mp4"> ▶ Play video</a>
 
 ---
 
